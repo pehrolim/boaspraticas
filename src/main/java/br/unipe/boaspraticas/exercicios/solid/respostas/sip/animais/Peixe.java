@@ -1,4 +1,4 @@
-package br.unipe.boaspraticas.exercicios.solid.sip.animais;
+package br.unipe.boaspraticas.exercicios.solid.respostas.sip.animais;
 
 class Peixe implements Animal, Nadar {
     @Override

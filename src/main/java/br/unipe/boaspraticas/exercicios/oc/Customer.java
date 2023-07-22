@@ -21,6 +21,8 @@ public class Customer {
     }
 
     public void makePurchase(double amount) {
+
+
         if (amount > 0) {
             addToTotalPurchaseAmount(amount);
             System.out.println("Purchase successful!");
